@@ -1,0 +1,397 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+    width: 100%;
+    height: 1350px;
+    background: #6B9509;
+    margin: 0 auto;
+}
+
+.div {
+    width: 960px;
+    background: #6B9509;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.menu {
+    width: 940px;
+    height: 90px;
+    padding: 10px;
+    margin: 0 auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background: #FFFFFF;
+}
+
+.mimg {
+    width: 230px;
+    height: 90px;
+    margin: 0 auto;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    background: #FFFFFF;
+}
+
+.mdata1 {
+    width: 95px;
+    height: 90px;
+    margin: 0 auto;
+    float: left;
+    background: #FFFFFF;
+}
+
+.mdata2 {
+    width: 85px;
+    height: 90px;
+    margin: 0 auto;
+    float: left;
+    background: #FFFFFF;
+}
+
+.mdata2 p {
+    text-align: center;
+    color: #777777;
+    font-size: 14px;
+    padding-top: 30px;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.f {
+    width: 960px;
+    height: 100px;
+    margin: 0 auto;
+    background: #70C201;
+}
+
+.ff {
+    width: 225px;
+    height: 100px;
+    margin: 0 auto;
+    float: left;
+}
+
+.ff p {
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-top: 5px;
+    float: left;
+}
+
+.ff h4 {
+    color: #fff;
+    text-align: center;
+    margin-left: 60px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    font-size: 18px;
+    float: left;
+}
+
+.fff {
+    width: 1px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+    align-content: center;
+    background: #fff;
+    float: left;
+}
+
+.det {
+    width: 960px;
+    height: 440px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.det1 {
+    width: 20px;
+    height: 440px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.det2 {
+    width: 640px;
+    height: 440px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.det2_1 {
+    width: 640px;
+    height: 130px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.det2_1 p {
+    color: #666666;
+    font-size: 15px;
+    font-family: sans-serif;
+    float: left;
+    position: relative;
+    padding-top: 5px;
+    text-align: left;
+}
+
+.det2_2 {
+    width: 640px;
+    height: 80px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.idat {
+    width: 64px;
+    margin: 0 auto;
+    height: 100px;
+    padding-top: 10px;
+    background: #fff;
+    float: left;
+}
+
+.ddat {
+    width: 256px;
+    height: 70px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.ddat p {
+    color: #666666;
+    font-size: 12px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    float: left;
+    position: relative;
+    text-align: left;
+}
+
+.det22 {
+    width: 320px;
+    height: 15px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.det22 p {
+    color: #9fba53;
+    font-size: 18px;
+    font-family: sans-serif;
+    float: left;
+    position: relative;
+    text-align: left;
+}
+
+.det2_3 {
+    width: 320px;
+    height: 70px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.det3 {
+    width: 245px;
+
+    margin: 0 auto;
+    background: #fff;
+    padding-top: 30px;
+    padding-left: 5px;
+    float: left;
+}
+
+.dat3 img {
+    height="344";
+    width="216";
+
+}
+
+.det4 {
+    width: 30px;
+    height: 440px;
+    margin: 0 auto;
+    background: #fff;
+    float: left;
+}
+
+.con {
+    height: 230px;
+    width: 960px;
+    margin: 0 auto;
+    float: left;
+    border-radius: 10px;
+    background: #ed2a2a;
+}
+
+.con1 {
+    height: 230px;
+    width: 210px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+}
+
+.con11 {
+    height: 50px;
+    width: 210px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+}
+
+.con11 p {
+    color: rgba(255, 255, 255, 0.75);
+    font-family: sans-serif;
+    font-size: 25px;
+    position: relative;
+    float: left;
+    padding-top: 15px;
+    margin: 0 auto;
+}
+
+.con12 {
+    height: 30px;
+    width: 210px;
+    margin: 0 auto;
+    border-bottom: 1px dotted #fff;
+    float: left;
+    background: #6B9509;
+
+}
+
+.con12 p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    position: relative;
+    float: left;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.con13 {
+    height: 30px;
+    width: 210px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+
+}
+
+.conX {
+    height: 60px;
+    width: 210px;
+    margin: 0 auto;
+    border-bottom: 1px dotted #fff;
+    float: left;
+    background: #6B9509;
+}
+
+.conX p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    position: relative;
+    float: left;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.congap {
+    height: 230px;
+    width: 20px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+}
+
+.conwg {
+    height: 230px;
+    width: 20px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+}
+
+.con10 {
+    height: 230px;
+    width: 230px;
+    margin: 0 auto;
+    float: left;
+    background: #6B9509;
+}
+
+.coni {
+    height: 60px;
+    width: 230px;
+    margin: 0 auto;
+    float: left;
+    padding-top: 14px;
+    background: #6B9509;
+}
+
+.cont {
+    height: 60px;
+    width: 230px;
+    margin: 0 auto;
+    float: left;
+    padding-top: 14px;
+    background: #6B9509;
+}
+
+.conlogo {
+    height: 110px;
+    width: 230px;
+    margin: 0 auto;
+    float: left;
+    padding-top: 14px;
+    background: #6B9509;
+}
+
+.cont p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 12px;
+    position: relative;
+    float: left;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.foot {
+    border-radius: 10px;
+    background: #527400;
+    padding: 20px;
+    width: 920px;
+    height: 20px;
+    float: left;
+    margin: 0 auto;
+}
+
+.foot p {
+    color: #fff;
+    font-size: 12px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    position: relative;
+    text-align: center;
+}
